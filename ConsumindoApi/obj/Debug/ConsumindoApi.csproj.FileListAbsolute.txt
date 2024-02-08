@@ -1,0 +1,11 @@
+C:\Git\API\ConsumindoApi\bin\Debug\ConsumindoApi.exe.config
+C:\Git\API\ConsumindoApi\bin\Debug\ConsumindoApi.exe
+C:\Git\API\ConsumindoApi\bin\Debug\ConsumindoApi.pdb
+C:\Git\API\ConsumindoApi\obj\Debug\ConsumindoApi.csproj.AssemblyReference.cache
+C:\Git\API\ConsumindoApi\obj\Debug\ConsumindoApi.csproj.SuggestedBindingRedirects.cache
+C:\Git\API\ConsumindoApi\obj\Debug\ConsumindoApi.csproj.CoreCompileInputs.cache
+C:\Git\API\ConsumindoApi\obj\Debug\ConsumindoApi.exe
+C:\Git\API\ConsumindoApi\obj\Debug\ConsumindoApi.pdb
+C:\Git\API\ConsumindoApi\bin\Debug\Newtonsoft.Json.dll
+C:\Git\API\ConsumindoApi\bin\Debug\Newtonsoft.Json.xml
+C:\Git\API\ConsumindoApi\obj\Debug\ConsumindoApi.csproj.CopyComplete
